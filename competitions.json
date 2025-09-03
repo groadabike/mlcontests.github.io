@@ -1,5 +1,28 @@
 {
   "data": [
+  {
+      "name": "ICASSP 2026 Cadenza Challenge: Predicting Lyric Intelligibility",
+      "url": "https://cadenzachallenge.org/docs/clip1/intro",
+      "tags": [
+        "supervised",
+        "unsupervised"
+        "regression",
+        "audio",
+        "science",
+        "analysis"
+      ],
+      "launched": "01 Sep 2025",
+      "registration-deadline": "01 Dec 2025",
+      "deadline": "01 Dec 2025",
+      "prize": null,
+      "platform": "Independent",
+      "sponsor": null,
+      "conference": "ICASSP",
+      "conference_year": 2026,
+      "additional_urls": [
+        ""
+      ]
+    },
     {
       "name": "Analyse Exoplanet Data (Ariel Data Data Challenge 2025)",
       "url": "https://www.ariel-datachallenge.space/?ref=mlcontests",
